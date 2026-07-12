@@ -1,59 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=160&section=header&text=re-LIF3&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%20%E3%83%BB%20welcome%20to%20my%20profile&descSize=16&descAlignY=62" width="100%" />
+[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/jdg2896)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=F778BA&center=true&vCenter=true&width=600&height=45&lines=Java+%E3%83%BB+Kotlin+%E3%83%BB+Swift+Developer;%E4%BD%9C%E3%82%8A%E7%B6%9A%E3%81%91%E3%82%8B+%E3%83%BB+always+building" alt="typing" />
-
-</div>
-
-<br/>
-
-## 　自己紹介　·　About Me
-
-Developer yang fokus di **Java · Kotlin · Swift**, lagi ngulik `...`.<br/>
-Terbuka buat kolaborasi soal `...`.<br/>
-Ngobrolin `...`? Ketuk Discord di bawah.
-
-`⚡ fun fact` — ...
-
-<br/>
-
-## 　技術　·　Tech Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=F778BA)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=F778BA)
-![Swift](https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=F778BA)
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jdg2896) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
 </div>
 
-<br/>
-
-## 　統計　·　Stats
-
-<div align="center">
-
-<img height="180" src="https://streak-stats.demolab.com?user=re-LIF3&hide_border=true&background=0d1117&stroke=30363d&ring=f778ba&fire=f778ba&currStreakLabel=f778ba&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-</div>
-
-<br/>
-
-## 　繋がり　·　Connect
+- 🌱 I’m passionate about learning to be 1% better at software engineering every work day.
+- 📚 I constantly improve my development workflows and processes, currently integrating agents into my workflow.
+- 🏆 I contribute to [open source](https://opensource.com/resources/what-open-source) whenever I can.
+- ⚡ Fun fact: I play video games, read books, play the piano, and sleep with my dogs!
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/ubel_yuberu)
+## 💡 A Quote:
 
-</div>
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<br/>
+## 💻 My Tech Stack:
 
-<div align="center">
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript, Python, AWS, GCP, Azure, Solidity, Docker, PostgreSQL](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,py,aws,gcp,azure,solidity,docker,postgres)](https://skillicons.dev)
 
-<img src="https://komarev.com/ghpvc/?username=re-LIF3&style=flat-square&color=F778BA&label=%E8%A8%AA%E5%95%8F%E8%80%85+visitors" />
+## 📖 Read My Blog:
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=90&section=footer&text=%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%20%E3%83%BB%20thanks%20for%20visiting&fontSize=15&fontColor=ffffff&fontAlignY=70" width="100%" />
+<p>
+    <a target="_blank"href="https://jaspergabriel.dev"><img alt="jaspergabriel.dev" src="https://img.shields.io/badge/blog-black?style=for-the-badge" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://dev.to/jdg2896"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://jdg2896.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://medium.com/@jdg2896"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
+
+## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
+
+<p>
+    <a target="_blank"href="https://www.gitpoap.io/gp/893"><img height=175 alt="Taiko GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-taiko-contributor-2022-logo-1671723111328.png&w=750&q=75" />&nbsp;&nbsp;
+    <a target="_blank"href="https://www.gitpoap.io/gp/879"><img height=175 alt="Ethereum.org GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-ethereumorg-contributor-2022-logo-1671568487547.png&w=750&q=75" />&nbsp;&nbsp;
+    <a target="_blank"href="https://poap.gallery/event/128736"><img height=175 alt="ZK-Roller-Coaster Taiko Research Contributor" src="https://assets.poap.xyz/taiko-research-contributors-2023-logo-1685987761596.png" />&nbsp;&nbsp;
+    <a target="_blank" href="https://collectors.poap.xyz/en-US/token/6673781"><img height=175 alt="Double Your DeFi Cohort 2: May 2023" src="https://assets.poap.xyz/0c6eaacb-d527-479b-8a0e-d9e60726851d.png" />&nbsp;&nbsp;
+</p>
+
+## 🎮 When I'm AFK:
+
+![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 </div>
