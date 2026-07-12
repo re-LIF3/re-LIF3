@@ -1,12 +1,13 @@
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--  ⛩️  re-LIF3 · GitHub Profile README (v3 — full width)      -->
+<!--  ⛩️  re-LIF3 · GitHub Profile README (v4)                   -->
 <!--                                                              -->
 <!--  CATATAN EDIT:                                               -->
 <!--  • Nilai di blok <pre> masih dummy — edit bebas, tapi        -->
 <!--    jaga jumlah titik biar tetap sejajar (lebar 64 kolom).    -->
-<!--  • Baris <img width="2000" height="0"> itu TRIK, bukan       -->
-<!--    error: gambar kosong tak terlihat yang memaksa tabel      -->
-<!--    melebar memenuhi halaman. Jangan dihapus.                 -->
+<!--  • PENTING: baris <pre> harus langsung berada setelah        -->
+<!--    baris kosong. Jangan sisipkan apa pun di antara           -->
+<!--    <td> dan <pre> — itu penyebab email berubah jadi link     -->
+<!--    biru dan jarak baris jadi kacau kemarin.                  -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <table>
@@ -20,7 +21,6 @@
 </td>
 <td valign="middle">
 
-<img width="2000" height="0" alt=""/>
 <pre>
 re-LIF3@github ─────────────────────────────────────────────────
 OS ....................................... Android, iOS, Windows
