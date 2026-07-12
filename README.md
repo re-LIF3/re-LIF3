@@ -67,11 +67,22 @@ Focus .................................... apps built for myself
 
 ### 📊 統計 · Stats
 
-<!-- Kartu ini pakai github-stats-extended (fork aktif, server sendiri).
-     Kalau mau balik ke yang lama tinggal ganti domainnya. -->
-<img src="https://github-stats-extended.vercel.app/api?username=re-LIF3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=re-LIF3&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages"/>
-<br/>
+<!-- Bar statis — TIDAK bergantung API, jadi tak akan pernah error
+     apa pun setelan privasimu. Angka & persen edit sendiri.
+     Jaga lebar 64 kolom biar titik-titiknya sejajar. -->
+<table><tr><td valign="middle">
+
+<pre>
+Most Used Languages ────────────────────────────────────────────
+
+Kotlin   █████████░░░░░░░░░░░░░░░ .......................... 38%
+Swift    ██████░░░░░░░░░░░░░░░░░░ .......................... 27%
+Java     █████░░░░░░░░░░░░░░░░░░░ .......................... 20%
+C++      ████░░░░░░░░░░░░░░░░░░░░ .......................... 15%
+</pre>
+
+</td></tr></table>
+
 <sub>🔒 most of my work lives in private repos</sub>
 
 <br/><br/>
