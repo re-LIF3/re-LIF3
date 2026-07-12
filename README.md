@@ -1,28 +1,26 @@
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--  ⛩️  re-LIF3 · GitHub Profile README                        -->
+<!--  ⛩️  re-LIF3 · GitHub Profile README (v2)                   -->
 <!--                                                              -->
-<!--  CARA PAKAI:                                                 -->
-<!--  1. Buat repo baru bernama: re-LIF3 (sama persis dgn         -->
-<!--     username), centang "Add a README file".                  -->
-<!--  2. Ganti isi README.md-nya dengan file ini.                 -->
+<!--  FOTO PROFIL (dari Pinterest):                               -->
+<!--  1. Simpan gambar/video dari pin-nya ke HP/PC kamu.          -->
+<!--  2. Kalau video & mau bergerak → convert dulu ke GIF.        -->
+<!--  3. Upload ke repo ini (repo "re-LIF3") dengan nama:         -->
+<!--       avatar.png   → gambar diam                             -->
+<!--       avatar.gif   → animasi                                 -->
+<!--  4. Kalau pakai .gif, ganti "avatar.png" di bawah            -->
+<!--     jadi "avatar.gif".                                       -->
 <!--                                                              -->
 <!--  CATATAN EDIT:                                               -->
-<!--  • Semua nilai di dalam blok <pre> masih DUMMY               -->
-<!--    (uptime, email, X, website, project) — edit sesukamu.     -->
-<!--  • Kalau edit blok <pre>, jaga titik-titiknya biar nilai     -->
-<!--    tetap sejajar di kanan (lebar total 56 karakter).         -->
-<!--  • Avatar: default memakai foto profil GitHub-mu otomatis.   -->
-<!--    Ganti src di bawah dgn pixel-art anime kalau sudah ada.   -->
+<!--  • Nilai di blok <pre> masih dummy — edit bebas, tapi        -->
+<!--    jaga jumlah titik biar tetap sejajar (lebar 56 kolom).    -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
-<td width="34%" align="center" valign="middle">
+<td width="300" align="center" valign="middle">
 
-<!-- [EDIT] Ganti dengan pixel-art / avatar anime kamu -->
-<img src="https://github.com/re-LIF3.png" width="240" alt="re-LIF3"/>
-
-<br/><br/>
+<img src="./avatar.png" width="100%" alt="re-LIF3"/>
+<br/>
 <sub>⛩️ <b>一人開発</b> — <i>solo dev</i> 🌸</sub>
 
 </td>
@@ -62,48 +60,26 @@ Focus ............................ apps built for myself
 </table>
 
 <div align="center">
-
-<samp>🌸 ──────────── ⛩️ ──────────── 🌸</samp>
-
-<br/><br/>
-
-<i>Not a professional programmer — just an IT grad who builds
-personal apps, with AI as a coding partner 🤖</i>
-
-<br/><br/>
+<i>Not a professional programmer — just an IT grad who builds personal apps, with AI as a coding partner 🤖</i>
 
 ### ⛩️ 技術 · Tech Stack
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
-<img src="https://img.shields.io/badge/Android_Studio-1a1b27?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio"/>
-<img src="https://img.shields.io/badge/Xcode-1a1b27?style=for-the-badge&logo=xcode&logoColor=147EFB" alt="Xcode"/>
-
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<br/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/> <img src="https://img.shields.io/badge/Android_Studio-1a1b27?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio"/> <img src="https://img.shields.io/badge/Xcode-1a1b27?style=for-the-badge&logo=xcode&logoColor=147EFB" alt="Xcode"/>
+<br/>
 <img src="https://img.shields.io/badge/AI_Assisted-Coding-FF6B9D?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI Assisted Coding"/>
-
-<br/><br/>
 
 ### 📊 統計 · Stats
 
 <!-- Kontribusi private ikut kehitung kalau kamu aktifkan:
-     GitHub → Settings → Profile → centang "Include private contributions on my profile" -->
+     Settings → Profile → "Include private contributions on my profile" -->
 <img src="https://github-readme-stats.vercel.app/api?username=re-LIF3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-
 <br/>
-
 <sub>🔒 most of my work lives in private repos</sub>
 
 <br/><br/>
-
 <samp>🌸 ──────────── ⛩️ ──────────── 🌸</samp>
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=re-LIF3&style=for-the-badge&color=E63946&label=VISITORS" alt="visitors"/>
-
 </div>
