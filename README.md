@@ -19,7 +19,7 @@
 <tr>
 <td width="300" align="center" valign="middle">
 
-<img src="./avatar.png" width="100%" alt="re-LIF3"/>
+<img src="./avatar.gif" width="100%" alt="re-LIF3"/>
 <br/>
 <sub>⛩️ <b>一人開発</b> — <i>solo dev</i> 🌸</sub>
 
