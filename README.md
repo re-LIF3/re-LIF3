@@ -1,18 +1,12 @@
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--  ⛩️  re-LIF3 · GitHub Profile README (v2)                   -->
-<!--                                                              -->
-<!--  FOTO PROFIL (dari Pinterest):                               -->
-<!--  1. Simpan gambar/video dari pin-nya ke HP/PC kamu.          -->
-<!--  2. Kalau video & mau bergerak → convert dulu ke GIF.        -->
-<!--  3. Upload ke repo ini (repo "re-LIF3") dengan nama:         -->
-<!--       avatar.png   → gambar diam                             -->
-<!--       avatar.gif   → animasi                                 -->
-<!--  4. Kalau pakai .gif, ganti "avatar.png" di bawah            -->
-<!--     jadi "avatar.gif".                                       -->
+<!--  ⛩️  re-LIF3 · GitHub Profile README (v3 — full width)      -->
 <!--                                                              -->
 <!--  CATATAN EDIT:                                               -->
 <!--  • Nilai di blok <pre> masih dummy — edit bebas, tapi        -->
-<!--    jaga jumlah titik biar tetap sejajar (lebar 56 kolom).    -->
+<!--    jaga jumlah titik biar tetap sejajar (lebar 64 kolom).    -->
+<!--  • Baris <img width="2000" height="0"> itu TRIK, bukan       -->
+<!--    error: gambar kosong tak terlihat yang memaksa tabel      -->
+<!--    melebar memenuhi halaman. Jangan dihapus.                 -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <table>
@@ -26,33 +20,34 @@
 </td>
 <td valign="middle">
 
+<img width="2000" height="0" alt=""/>
 <pre>
-re-LIF3@github ─────────────────────────────────────────
-OS ............................... Android, iOS, Windows
-Uptime ........................................ 3+ years
-Expertise ........................... Android & iOS Apps
-Workflow ............................ AI-assisted coding
-Project ............................. kage-lab (private)
-IDE .............................. Android Studio, Xcode
+re-LIF3@github ─────────────────────────────────────────────────
+OS ....................................... Android, iOS, Windows
+Uptime ................................................ 3+ years
+Expertise ................................... Android & iOS Apps
+Workflow .................................... AI-assisted coding
+Project ..................................... kage-lab (private)
+IDE ...................................... Android Studio, Xcode
 
-Languages.Programming ......... Kotlin, Java, Swift, C++
-Languages.Computer ......... XML, JSON, Gradle, Markdown
-Languages.Real ..................... Indonesian, English
+Languages.Programming ................. Kotlin, Java, Swift, C++
+Languages.Computer ................. XML, JSON, Gradle, Markdown
+Languages.Real ............................. Indonesian, English
 
 Quote:
 
 「七転び八起き」
 Fall down seven times, stand up eight.
 
-Contact ────────────────────────────────────────────────
-Email ................................. hello@relif3.dev
-X (Twitter) ................................... @re_LIF3
-Website ..................................... relif3.dev
+Contact ────────────────────────────────────────────────────────
+Email ......................................... hello@relif3.dev
+X (Twitter) ........................................... @re_LIF3
+Website ............................................. relif3.dev
 
-GitHub ─────────────────────────────────────────────────
-Repos ..................... a few public, mostly private
-Commits ............................... quietly shipping
-Focus ............................ apps built for myself
+GitHub ─────────────────────────────────────────────────────────
+Repos ............................. a few public, mostly private
+Commits ....................................... quietly shipping
+Focus .................................... apps built for myself
 </pre>
 
 </td>
