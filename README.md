@@ -67,9 +67,10 @@ Focus .................................... apps built for myself
 
 ### 📊 統計 · Stats
 
-<!-- Kontribusi private ikut kehitung kalau kamu aktifkan:
-     Settings → Profile → "Include private contributions on my profile" -->
-<img src="https://github-readme-stats.vercel.app/api?username=re-LIF3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<!-- Kartu ini pakai github-stats-extended (fork aktif, server sendiri).
+     Kalau mau balik ke yang lama tinggal ganti domainnya. -->
+<img src="https://github-stats-extended.vercel.app/api?username=re-LIF3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=re-LIF3&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages"/>
 <br/>
 <sub>🔒 most of my work lives in private repos</sub>
 
