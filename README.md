@@ -1,82 +1,75 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F754A2&center=true&vCenter=true&width=500&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%E2%9C%A7+Welcome;re-LIF3+%7C+Developer;Java+%E3%83%BB+Kotlin+%E3%83%BB+Swift" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=160&section=header&text=re-LIF3&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%20%E3%83%BB%20welcome%20to%20my%20profile&descSize=16&descAlignY=62" width="100%" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB-Profile-F754A2?style=flat-square&labelColor=1a1b27" />
-
-</div>
-
----
-
-### 「 About Me 」・ 自己紹介
-
-```yaml
-re-LIF3:
-  🔭 currently_working_on:  "..."
-  👯 collaborate_on:        "..."
-  🤝 looking_for_help:      "..."
-  🌱 currently_learning:    "..."
-  💬 ask_me_about:          "..."
-  ⚡ fun_fact:              "..."
-```
-
-<br/>
-
-### 「 Tech Stack 」・ 技術
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1b27)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=1a1b27)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white&labelColor=1a1b27)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=F778BA&center=true&vCenter=true&width=600&height=45&lines=Java+%E3%83%BB+Kotlin+%E3%83%BB+Swift+Developer;%E4%BD%9C%E3%82%8A%E7%B6%9A%E3%81%91%E3%82%8B+%E3%83%BB+always+building" alt="typing" />
 
 </div>
 
 <br/>
 
-### 「 Connect 」・ 繋がり
+## 　自己紹介　·　About Me
+
+Developer yang fokus di **Java · Kotlin · Swift**, lagi ngulik `...`.
+Terbuka buat kolaborasi soal `...`.
+Ngobrolin `...`? Ketuk Discord di bawah.
+
+`⚡ fun fact` — ...
+
+<br/>
+
+## 　技術　·　Tech Stack
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=1a1b27)](https://discord.gg/ubel_yuberu)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=F778BA)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=F778BA)
+![Swift](https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=F778BA)
 
 </div>
 
 <br/>
 
-### 「 Stats 」・ 統計
+## 　統計　·　Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=re-LIF3&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&border_radius=10" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=re-LIF3&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=re-LIF3&hide_border=true&bg_color=0d1117&title_color=f778ba&text_color=c9d1d9&icon_color=f778ba&count_private=false" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=re-LIF3&hide_border=true&layout=compact&bg_color=0d1117&title_color=f778ba&text_color=c9d1d9&langs_count=6" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=re-LIF3&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://streak-stats.demolab.com?user=re-LIF3&hide_border=true&background=0d1117&stroke=30363d&ring=f778ba&fire=f778ba&currStreakLabel=f778ba&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
 </div>
 
 <br/>
 
-### 「 Trophies 」・ 実績
+## 　実績　·　Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=re-LIF3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=re-LIF3&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
 
 </div>
 
----
+<br/>
+
+## 　繋がり　·　Connect
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=re-LIF3&style=flat-square&color=F754A2&label=visitors" />
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/ubel_yuberu)
 
-<br/><br/>
+</div>
 
-<sub>「 ありがとう ✧ thanks for visiting 」</sub>
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=re-LIF3&style=flat-square&color=F778BA&label=%E8%A8%AA%E5%95%8F%E8%80%85+visitors" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=90&section=footer&text=%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%20%E3%83%BB%20thanks%20for%20visiting&fontSize=15&fontColor=ffffff&fontAlignY=70" width="100%" />
 
 </div>
