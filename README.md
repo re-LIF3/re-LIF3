@@ -10,8 +10,8 @@
 
 ## 　自己紹介　·　About Me
 
-Developer yang fokus di **Java · Kotlin · Swift**, lagi ngulik `...`.
-Terbuka buat kolaborasi soal `...`.
+Developer yang fokus di **Java · Kotlin · Swift**, lagi ngulik `...`.<br/>
+Terbuka buat kolaborasi soal `...`.<br/>
 Ngobrolin `...`? Ketuk Discord di bawah.
 
 `⚡ fun fact` — ...
@@ -34,23 +34,7 @@ Ngobrolin `...`? Ketuk Discord di bawah.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=re-LIF3&hide_border=true&bg_color=0d1117&title_color=f778ba&text_color=c9d1d9&icon_color=f778ba&count_private=false" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=re-LIF3&hide_border=true&layout=compact&bg_color=0d1117&title_color=f778ba&text_color=c9d1d9&langs_count=6" />
-
-<br/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=re-LIF3&hide_border=true&background=0d1117&stroke=30363d&ring=f778ba&fire=f778ba&currStreakLabel=f778ba&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-</div>
-
-<br/>
-
-## 　実績　·　Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=re-LIF3&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
+<img height="180" src="https://streak-stats.demolab.com?user=re-LIF3&hide_border=true&background=0d1117&stroke=30363d&ring=f778ba&fire=f778ba&currStreakLabel=f778ba&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
 </div>
 
